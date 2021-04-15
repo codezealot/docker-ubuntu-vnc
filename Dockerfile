@@ -6,6 +6,7 @@ LABEL MAINTAINER="DCsunset"
 ENV noVNC_version=1.1.0
 ENV websockify_version=0.9.0
 ENV tigervnc_version=1.10.1
+ENV VNC_PW=vncpassword
 
 # Local debug
 #COPY ./sources.list /etc/apt/
